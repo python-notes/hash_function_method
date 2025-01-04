@@ -1,1 +1,4 @@
-# hash_function_method
+# hash - introduction
+
+---
+
